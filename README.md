@@ -23,7 +23,7 @@ Options:
 
 ## Example
 
-Added to [Hatch](https://github.com/sdidla/Hatch) and running `swift package forest HatchParser` produces
+Adding to [Hatch](https://github.com/sdidla/Hatch) and running `swift package forest HatchParser` produces
 
 ```
 # totalModules:  7
@@ -49,7 +49,7 @@ digraph targetGraph {
 ```
 
 
-Pasted into http://viz-js.com produces:
+Copy-pasted into http://viz-js.com produces:
 
 ![HatchParser](https://user-images.githubusercontent.com/16975114/175520831-e9fba921-43c0-4cc3-b29a-22d855626ac0.png)
 
