@@ -7,7 +7,7 @@ Generate dependency graphs of targets in your package
 1. Add this package to your package dependencies
 
 ```swift
-    .package(path: "/Users/shammi.didla/Repositories/forest")
+    .package(url: "https://github.com/sdidla/Forest", .branchItem("main"))
 ```
 
 2. Run from the terminal
