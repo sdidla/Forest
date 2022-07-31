@@ -3,11 +3,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "forest",
-    products: [.plugin(name: "forest", targets: ["forest"])],
+    name: "Forest",
+    products: [.plugin(name: "Forest", targets: ["Forest"])],
     targets: [
         .plugin(
-            name: "forest",
+            name: "Forest",
             capability: .command(
                 intent: .custom(
                     verb: "forest",
