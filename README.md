@@ -16,11 +16,6 @@ Generate dependency graphs of targets in your package
     swift package forest [root-target-name]
 ```
 
-Options:
-
-- `--exclude-external-targets`: Targets that are are
-- `--output-json`: Outputs JSON instead of DOT format
-
 ## Example
 
 1. Adding to [Hatch](https://github.com/sdidla/Hatch) and running `swift package forest HatchParser` produces:
